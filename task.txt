@@ -1,0 +1,6 @@
+HTTP CRUD
+
+Создать API для CRUD (create, read, update, delete) над пользователем. Требования:
+хранить информацию о пользователях, данные валидировать
+Технологии:
+PostgreSQL, node.js, express, sequelize, http
